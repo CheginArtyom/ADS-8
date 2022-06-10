@@ -1,4 +1,4 @@
-// Copyright 2022 NNTU-CS
+// Copyright 2022 CheginArtyom
 #ifndef INCLUDE_TRAIN_H_
 #define INCLUDE_TRAIN_H_
 
